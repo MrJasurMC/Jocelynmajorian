@@ -1,3 +1,8 @@
 .home{
     width: 100%;
 }
+.notr{
+    width: 100%;
+    padding: 17px 134px;
+    display: flex;
+}
