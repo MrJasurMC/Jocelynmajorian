@@ -2,7 +2,9 @@ import React from 'react'
 
 function Mirshoxid() {
   return (
-    <div>Mirshoxid</div>
+    <div>
+      Lorem ipsum dolor sit amet consectetur adipisicing elit. Vel explicabo voluptatum eveniet ex quis, fugiat, delectus iusto laborum omnis, deserunt optio ipsa ea ab molestiae fuga! Architecto odit recusandae nisi ab modi neque. Officiis odio deserunt consequatur sint, in labore cupiditate vitae rerum aspernatur? Earum beatae labore, velit, unde placeat nam laboriosam nisi quam quia amet illum distinctio asperiores obcaecati harum totam ipsa quasi ea. Quasi minima velit odio totam provident, in doloribus vitae officiis dolorem impedit optio rem doloremque quas ut vero eligendi voluptas similique nemo voluptatum magnam deserunt eaque? Magnam assumenda sunt amet nisi, explicabo similique porro fugit ut laborum repellendus nihil consectetur ducimus expedita nam sequi dolor asperiores, autem omnis sit eveniet tenetur. Esse aliquid aliquam nihil doloremque harum recusandae atque inventore a saepe reprehenderit, exercitationem facilis architecto, perspiciatis sequi doloribus ad dolores blanditiis consequatur, rerum repudiandae amet consectetur officia temporibus quis! Cumque eum veritatis ad culpa ullam dolorem odio voluptatem tenetur atque dolorum, quibusdam harum laboriosam dolor consectetur voluptate corrupti eaque eligendi provident! Consequatur, veniam? Soluta corrupti earum distinctio voluptas eius iure nostrum nam obcaecati aspernatur necessitatibus ducimus reprehenderit perspiciatis, sed quia odio tenetur ad unde est quos repellendus alias dolore adipisci minima fuga. Pariatur asperiores molestiae sunt officia commodi optio, id alias similique tempore laborum beatae adipisci? Neque, sed voluptatum consequuntur itaque fugit perferendis hic veritatis ipsam beatae vel esse officia praesentium obcaecati deleniti reprehenderit maiores, adipisci nulla vero recusandae dolores ad placeat id nobis. Distinctio ex voluptates perspiciatis rerum illum veniam facere suscipit numquam?
+    </div>
   )
 }
 
