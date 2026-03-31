@@ -1,8 +1,26 @@
-.home{
-    width: 100%;
-}
-.notr{
+.home {
     width: 100%;
     padding: 17px 134px;
+}
+
+.notr {
+    width: 1100px;
+    padding: 39px 30px;
+    background-color: #999999;
     display: flex;
+    align-items: center;
+    justify-content: space-between;
+    flex-direction: column;
+    border-radius: 20px;
+}
+.notr h1{
+    font-size: 40px;
+    font-weight: 700;
+    color: #ffff;
+}
+.notr p{
+    font-size: 22px;
+    font-weight: 400;
+    color: #ffff;
+    text-align: center;
 }
