@@ -8,7 +8,8 @@ function Mirshoxid() {
         <h2>Vous avez des difficultés de recrutement ?</h2>
         <p>Confiez vos recherches à des experts du secteur</p>
       </div>
-      <div className="simples">
+      <div className="simples"> 
+        <p></p>
         <h2>En 3 étapes simples :</h2>
         <div className="boxes-simple">
           <div>
